@@ -1,0 +1,30 @@
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Core\bin\Debug\net9.0\OutlookCalendar.Core.deps.json
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Core\bin\Debug\net9.0\OutlookCalendar.Core.dll
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Core\bin\Debug\net9.0\OutlookCalendar.Core.pdb
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Core\bin\Debug\net9.0\OutlookCalendar.Domain.dll
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Core\bin\Debug\net9.0\OutlookCalendar.Domain.pdb
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Core\obj\Debug\net9.0\OutlookCalendar.Core.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Core\obj\Debug\net9.0\OutlookCalendar.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Core\obj\Debug\net9.0\OutlookCalendar.Core.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Core\obj\Debug\net9.0\OutlookCalendar.Core.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Core\obj\Debug\net9.0\OutlookCalendar.Core.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Core\obj\Debug\net9.0\OutlookC.2B8CD5D8.Up2Date
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Core\obj\Debug\net9.0\OutlookCalendar.Core.dll
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Core\obj\Debug\net9.0\refint\OutlookCalendar.Core.dll
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Core\obj\Debug\net9.0\OutlookCalendar.Core.pdb
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Core\obj\Debug\net9.0\ref\OutlookCalendar.Core.dll
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Core\bin\Debug\net9.0\OutlookCalendar.Core.deps.json
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Core\bin\Debug\net9.0\OutlookCalendar.Core.dll
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Core\bin\Debug\net9.0\OutlookCalendar.Core.pdb
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Core\bin\Debug\net9.0\OutlookCalendar.Domain.dll
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Core\bin\Debug\net9.0\OutlookCalendar.Domain.pdb
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Core\obj\Debug\net9.0\OutlookCalendar.Core.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Core\obj\Debug\net9.0\OutlookCalendar.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Core\obj\Debug\net9.0\OutlookCalendar.Core.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Core\obj\Debug\net9.0\OutlookCalendar.Core.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Core\obj\Debug\net9.0\OutlookCalendar.Core.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Core\obj\Debug\net9.0\OutlookC.2B8CD5D8.Up2Date
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Core\obj\Debug\net9.0\OutlookCalendar.Core.dll
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Core\obj\Debug\net9.0\refint\OutlookCalendar.Core.dll
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Core\obj\Debug\net9.0\OutlookCalendar.Core.pdb
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Core\obj\Debug\net9.0\ref\OutlookCalendar.Core.dll

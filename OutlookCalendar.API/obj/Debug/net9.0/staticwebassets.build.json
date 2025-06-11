@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7xGre8ohpCDZXGChuhvm3qx51bGTFRsGBQbMgPxVrHs=",
+  "Source": "OutlookCalendar.API",
+  "BasePath": "_content/OutlookCalendar.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

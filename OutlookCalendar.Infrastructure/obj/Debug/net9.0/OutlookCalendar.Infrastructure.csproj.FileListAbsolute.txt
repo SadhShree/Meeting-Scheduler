@@ -1,0 +1,34 @@
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Infrastructure\bin\Debug\net9.0\OutlookCalendar.Infrastructure.deps.json
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Infrastructure\bin\Debug\net9.0\OutlookCalendar.Infrastructure.dll
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Infrastructure\bin\Debug\net9.0\OutlookCalendar.Infrastructure.pdb
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Infrastructure\bin\Debug\net9.0\OutlookCalendar.Core.dll
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Infrastructure\bin\Debug\net9.0\OutlookCalendar.Domain.dll
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Infrastructure\bin\Debug\net9.0\OutlookCalendar.Core.pdb
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Infrastructure\bin\Debug\net9.0\OutlookCalendar.Domain.pdb
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Infrastructure\obj\Debug\net9.0\OutlookCalendar.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Infrastructure\obj\Debug\net9.0\OutlookCalendar.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Infrastructure\obj\Debug\net9.0\OutlookCalendar.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Infrastructure\obj\Debug\net9.0\OutlookCalendar.Infrastructure.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Infrastructure\obj\Debug\net9.0\OutlookCalendar.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Infrastructure\obj\Debug\net9.0\OutlookC.E3F8DE0D.Up2Date
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Infrastructure\obj\Debug\net9.0\OutlookCalendar.Infrastructure.dll
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Infrastructure\obj\Debug\net9.0\refint\OutlookCalendar.Infrastructure.dll
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Infrastructure\obj\Debug\net9.0\OutlookCalendar.Infrastructure.pdb
+C:\Users\lenovo\OneDrive\Desktop\new\OutlookCalendar.Infrastructure\obj\Debug\net9.0\ref\OutlookCalendar.Infrastructure.dll
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Infrastructure\bin\Debug\net9.0\OutlookCalendar.Infrastructure.deps.json
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Infrastructure\bin\Debug\net9.0\OutlookCalendar.Infrastructure.dll
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Infrastructure\bin\Debug\net9.0\OutlookCalendar.Infrastructure.pdb
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Infrastructure\bin\Debug\net9.0\OutlookCalendar.Core.dll
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Infrastructure\bin\Debug\net9.0\OutlookCalendar.Domain.dll
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Infrastructure\bin\Debug\net9.0\OutlookCalendar.Core.pdb
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Infrastructure\bin\Debug\net9.0\OutlookCalendar.Domain.pdb
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Infrastructure\obj\Debug\net9.0\OutlookCalendar.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Infrastructure\obj\Debug\net9.0\OutlookCalendar.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Infrastructure\obj\Debug\net9.0\OutlookCalendar.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Infrastructure\obj\Debug\net9.0\OutlookCalendar.Infrastructure.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Infrastructure\obj\Debug\net9.0\OutlookCalendar.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Infrastructure\obj\Debug\net9.0\OutlookC.E3F8DE0D.Up2Date
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Infrastructure\obj\Debug\net9.0\OutlookCalendar.Infrastructure.dll
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Infrastructure\obj\Debug\net9.0\refint\OutlookCalendar.Infrastructure.dll
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Infrastructure\obj\Debug\net9.0\OutlookCalendar.Infrastructure.pdb
+C:\Users\lenovo\Desktop\new - Copy\OutlookCalendar.Infrastructure\obj\Debug\net9.0\ref\OutlookCalendar.Infrastructure.dll
